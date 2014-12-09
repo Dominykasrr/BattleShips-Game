@@ -26,7 +26,7 @@ namespace BattleShipService
                 {
                     foreach(Player pl in onlinePlayers)
                     {
-                        pl.loginCallback.playerLoggedIn(p.name);
+                        pl.loginCallback.playerLoggedIn(name);
                     }
                     p.loginCallback = OperationContext.Current.GetCallbackChannel<PlayerLogInCallback>();
                     onlinePlayers.Add(p);

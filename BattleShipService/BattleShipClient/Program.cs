@@ -16,7 +16,7 @@ namespace BattleShipClient
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PortalForm());
+            Application.Run(new Form1());
         }
     }
 }
