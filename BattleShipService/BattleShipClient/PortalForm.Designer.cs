@@ -1,6 +1,6 @@
 ﻿namespace BattleShipClient
 {
-    partial class Form1
+    partial class PortalForm
     {
         /// <summary>
         /// Required designer variable.

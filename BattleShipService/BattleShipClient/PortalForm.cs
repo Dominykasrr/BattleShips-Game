@@ -11,10 +11,10 @@ using System.ServiceModel;
 
 namespace BattleShipClient
 {
-    public partial class Form1 : Form, ServiceReference1.IPortalCallback
+    public partial class PortalForm : Form, ServiceReference1.IPortalCallback
     {
         ServiceReference1.PortalClient proxy;
-        public Form1()
+        public PortalForm()
         {
             InitializeComponent();
             proxy = new ServiceReference1.PortalClient(new InstanceContext(this));
