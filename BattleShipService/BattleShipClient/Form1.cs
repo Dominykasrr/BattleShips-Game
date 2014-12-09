@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace BattleShipClient
 {
-    public partial class Form1 : Form, ServiceReference1.IPortal
+    public partial class Form1 : Form
     {
         ServiceReference1.PortalClient proxy;
         public Form1()
