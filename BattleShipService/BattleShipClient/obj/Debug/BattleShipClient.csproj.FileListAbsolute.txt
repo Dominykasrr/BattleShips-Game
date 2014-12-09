@@ -16,3 +16,10 @@ C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\obj\De
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.Form1.resources
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.Properties.Resources.resources
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.csproj.GenerateResource.Cache
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.exe.config
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.exe
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.pdb
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.csprojResolveAssemblyReference.cache
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.Form1.resources
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.Properties.Resources.resources
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.csproj.GenerateResource.Cache
