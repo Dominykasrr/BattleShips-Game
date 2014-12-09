@@ -22,9 +22,8 @@
     <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/BattleShipService/Service1/mex" Protocol="mex" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="BattleShipService.wsdl" MetadataType="Wsdl" ID="c4e76915-9082-4255-ab98-dfd61c4639f8" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BattleShipService/Service1/mex" />
     <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="bf3cdfd6-368d-4dac-a3aa-f79d4a98843f" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BattleShipService/Service1/mex" />
-    <MetadataFile FileName="BattleShipService.xsd" MetadataType="Schema" ID="f829a7e8-92a7-4ea9-970f-bd70c56465ce" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BattleShipService/Service1/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="c08923e1-25d4-4279-9ae6-dec2f7adfc24" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BattleShipService/Service1/mex" />
     <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="30857cc1-8506-43a2-b6d6-6b18edb67843" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/BattleShipService/Service1/mex" />
   </Metadata>
   <Extensions>

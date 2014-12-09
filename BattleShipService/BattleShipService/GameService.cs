@@ -24,9 +24,9 @@ namespace BattleShipService
             {
                 if(p.name==name && p.passwd==passwd)
                 {
-                    foreach(Player pl in onlinePlayers)
+                    foreach(Player player in onlinePlayers)
                     {
-                        pl.loginCallback.playerLoggedIn(pl.name);
+                        player.loginCallback.playerLoggedIn(player.name);
                     }
                     p.loginCallback = OperationContext.Current.GetCallbackChannel<PlayerLogInCallback>();
                     onlinePlayers.Add(p);

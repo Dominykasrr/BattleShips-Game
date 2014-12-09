@@ -7,8 +7,7 @@ using System.Text;
 
 namespace BattleShipService
 {
-    //[ServiceContract]
-    [ServiceContract(Namespace="BattleShipService", CallbackContract = typeof(PlayerLogInCallback))]
+    [ServiceContract(CallbackContract = typeof(PlayerLogInCallback))]
     public interface IPortal
     {
         [OperationContract]
@@ -16,7 +15,7 @@ namespace BattleShipService
 
 
     }
-    [ServiceContract(Namespace="BattleShipService")]
+    [ServiceContract]
     public interface PlayerLogInCallback
     {
         [OperationContract]
