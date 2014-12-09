@@ -22,7 +22,10 @@ namespace BattleShipClient
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if (proxy.Login(tbName.Text, tbPasswd.Text)) this.Text=tbName.Text;
+            if (proxy.Login(tbName.Text, tbPasswd.Text))
+            {
+                this.Text = tbName.Text;
+            }
         }
 
         public void playerLoggedIn(string name)

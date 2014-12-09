@@ -4,3 +4,9 @@ c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\Bat
 c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipService\bin\Debug\BattleShipService.pdb
 c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipService\obj\Debug\BattleShipService.dll
 c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipService\obj\Debug\BattleShipService.pdb
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipService\bin\Debug\BattleShipService.dll.config
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipService\bin\Debug\BattleShipService.dll
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipService\bin\Debug\BattleShipService.pdb
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipService\obj\Debug\BattleShipService.csprojResolveAssemblyReference.cache
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipService\obj\Debug\BattleShipService.dll
+D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipService\obj\Debug\BattleShipService.pdb
