@@ -1,0 +1,11 @@
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.exe.config
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.exe
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.pdb
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\bin\Debug\BattleShipService.dll
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\bin\Debug\BattleShipService.pdb
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.csprojResolveAssemblyReference.cache
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.Form1.resources
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.Properties.Resources.resources
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.csproj.GenerateResource.Cache
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.exe
+c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.pdb
