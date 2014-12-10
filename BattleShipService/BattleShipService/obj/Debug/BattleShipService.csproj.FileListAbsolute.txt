@@ -10,3 +10,9 @@ C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipService\bin\D
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipService\bin\Debug\BattleShipService.dll
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipService\bin\Debug\BattleShipService.pdb
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipService\obj\Debug\BattleShipService.pdb
+C:\Users\Deewan\Desktop\BattleShipService\BattleShipService\bin\Debug\BattleShipService.dll.config
+C:\Users\Deewan\Desktop\BattleShipService\BattleShipService\bin\Debug\BattleShipService.dll
+C:\Users\Deewan\Desktop\BattleShipService\BattleShipService\bin\Debug\BattleShipService.pdb
+C:\Users\Deewan\Desktop\BattleShipService\BattleShipService\obj\Debug\BattleShipService.csprojResolveAssemblyReference.cache
+C:\Users\Deewan\Desktop\BattleShipService\BattleShipService\obj\Debug\BattleShipService.dll
+C:\Users\Deewan\Desktop\BattleShipService\BattleShipService\obj\Debug\BattleShipService.pdb

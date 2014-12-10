@@ -22,6 +22,13 @@ namespace BattleShipClient
         private void btnLogin_Click(object sender, EventArgs e)
         {
             if (proxy.Login(tbName.Text, tbPasswd.Text)) MessageBox.Show("u did it");
+            Form Battle_Ship = new Battle_Ship();
+            Battle_Ship.Visible = true;
+        }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            //
         }
     }
 }
