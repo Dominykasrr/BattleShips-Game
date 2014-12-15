@@ -7,22 +7,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.ServiceModel;
 
 namespace BattleShipClient
 {
-    public partial class Form1 : Form, ServiceReference1.IPortalCallback
+    public partial class Form1 : Form
     {
         ServiceReference1.PortalClient proxy;
         public Form1()
         {
             InitializeComponent();
-            proxy = new ServiceReference1.PortalClient(new InstanceContext(this));
+            proxy = new ServiceReference1.PortalClient();
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
             if (proxy.Login(tbName.Text, tbPasswd.Text)) MessageBox.Show("u did it");
+<<<<<<< HEAD
             Form Battle_Ship = new Battle_Ship();
             Battle_Ship.Visible = true;
         }
@@ -35,6 +35,8 @@ namespace BattleShipClient
         public void playerLoggedIn(string name)
         {
             throw new NotImplementedException();
+=======
+>>>>>>> origin/master
         }
     }
 }

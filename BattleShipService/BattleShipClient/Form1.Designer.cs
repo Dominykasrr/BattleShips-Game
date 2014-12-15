@@ -31,9 +31,12 @@
             this.tbName = new System.Windows.Forms.TextBox();
             this.tbPasswd = new System.Windows.Forms.TextBox();
             this.btnLogin = new System.Windows.Forms.Button();
+<<<<<<< HEAD
             this.btnRegister = new System.Windows.Forms.Button();
             this.nameInput = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+=======
+>>>>>>> origin/master
             this.SuspendLayout();
             // 
             // tbName
@@ -63,6 +66,7 @@
             this.btnLogin.UseVisualStyleBackColor = true;
             this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
+<<<<<<< HEAD
             // btnRegister
             // 
             this.btnRegister.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -94,14 +98,20 @@
             this.label1.TabIndex = 38;
             this.label1.Text = "Password :";
             // 
+=======
+>>>>>>> origin/master
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(311, 144);
             this.Controls.Add(this.btnRegister);
             this.Controls.Add(this.nameInput);
             this.Controls.Add(this.label1);
+=======
+            this.ClientSize = new System.Drawing.Size(100, 100);
+>>>>>>> origin/master
             this.Controls.Add(this.btnLogin);
             this.Controls.Add(this.tbPasswd);
             this.Controls.Add(this.tbName);
@@ -118,9 +128,12 @@
         private System.Windows.Forms.TextBox tbName;
         private System.Windows.Forms.TextBox tbPasswd;
         private System.Windows.Forms.Button btnLogin;
+<<<<<<< HEAD
         private System.Windows.Forms.Button btnRegister;
         private System.Windows.Forms.Label nameInput;
         private System.Windows.Forms.Label label1;
+=======
+>>>>>>> origin/master
     }
 }
 

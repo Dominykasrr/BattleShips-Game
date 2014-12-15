@@ -10,6 +10,7 @@ c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\Bat
 c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.exe
 c:\users\winshitster\documents\visual studio 2013\Projects\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.pdb
 <<<<<<< HEAD
+<<<<<<< HEAD
 F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.exe.config
 F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.exe
 F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.pdb
@@ -22,6 +23,8 @@ F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleS
 F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.exe
 F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.pdb
 =======
+=======
+>>>>>>> origin/master
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.exe.config
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.exe
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.pdb
@@ -31,6 +34,7 @@ C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\obj\De
 C:\Users\Deewan\Desktop\mdw-pro-group4\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.csproj.GenerateResource.Cache
 D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\bin\Debug\BattleShipClient.exe.config
 D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.exe
+<<<<<<< HEAD
 D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.pdb
 D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.csprojResolveAssemblyReference.cache
 D:\Distributed Systems\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.Form1.resources
@@ -50,3 +54,5 @@ C:\Users\Deewan\Desktop\BattleShipService\BattleShipClient\obj\Debug\BattleShipC
 F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.Battle_Ship.resources
 F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.OnlinePlayers.resources
 F:\ICT\MDW\BattleShips-Game\BattleShipService\BattleShipClient\obj\Debug\BattleShipClient.SignUp.resources
+=======
+>>>>>>> origin/master
